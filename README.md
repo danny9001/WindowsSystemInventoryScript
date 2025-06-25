@@ -31,7 +31,7 @@ This PowerShell script performs a **full hardware and system inventory** of a Wi
 2. Run:
    ```powershell
    Set-ExecutionPolicy Bypass -Scope Process
-   .\ScriptName.ps1
+   .\GetDataComputer.ps1
 
 
 # 🖥️ Script de Inventario del Sistema Windows
@@ -67,3 +67,4 @@ Este script en PowerShell realiza un **inventario completo del sistema y hardwar
 2. Ejecutar el siguiente comando para permitir la ejecución temporal del script:  
    ```powershell
    Set-ExecutionPolicy Bypass -Scope Process
+   .\GetDataComputer.ps1
